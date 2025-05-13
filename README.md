@@ -1,7 +1,7 @@
 # 何思文  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0200239-4b89-4f3f-9d5d-99f731661d7c](https://github.com/Kinsen1998/Kinsen1998.github.io/blob/main/icon_lilin/20250512gpt.png" alt="何思文Logo" width="200">
+  <img src="icon_lilin/20250512gpt.png" alt="何思文Logo" width="200">
 </p>
 
 
